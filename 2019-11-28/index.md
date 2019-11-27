@@ -6,7 +6,7 @@ Functions and parameters can be defined an called in three ways.
 
 1. Positional arguments.
 2. Names arguments.
-3. Key-word arguments (`wkargs`)
+3. Key-word arguments (`kwargs`)
 
 ### Positional arguments:
 
